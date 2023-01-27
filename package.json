@@ -41,7 +41,7 @@
         "identity-obj-proxy": "3.0.0",
         "jest": "29.3.1",
         "lint-staged": "13.1.0",
-        "node-sass": "7.0.0",
+        "node-sass": "7.0.3",
         "prettier": "1.17.1",
         "pretty-quick": "1.11.0"
     },
